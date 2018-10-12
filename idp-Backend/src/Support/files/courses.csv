@@ -1,0 +1,97 @@
+ANTH,2322,3,0600,Global Cultures,
+ARAB,2314,3,0600,Intermediate Arabic II,
+ARCH,1301,3,0800,Introduction To Architecture And Interior Design,
+ARCH,2300,3,0600,Masterworks Of Western Architecture,
+ART,1301,3,0800,Art Appreciation,
+ART,1309,3,0800,Art Of The Western World: Greece Through Renaissance,
+ART,1310,3,0800,Art Of The West II: Baroque Through Modern,
+ART,1317,3,0600,Art Of Nonwestern Traditions,
+BIOL,1441,4,1500,Cell And Molecular Biology,
+CHEM,1441,4,1500,General Chemistry,
+CHEM,1465,4,1500,Chemistry For Engineers,
+CHIN,2314,3,0600,Intermediate Chinese II,
+CLAS,1300,3,0600,Classical Mythology,
+COMS,2302,3,0700,Business And Professional Communication,
+CSE,1105,1,0500,Introduction To Computer Science,
+CSE,1310,3,0100,Introduction To Computers and Programming,
+CSE,1312,3,0100,Mathematical Introduction To Computers & Programming,
+CSE,1320,3,0500,Intermediate Programming,(CSE1310|CSE1312)&(cse1105)&(math1426|math2425|math2326|math3330)
+CSE,1325,3,0500,Object-Oriented Programming,CSE1320
+CSE,2100,1,0500,Practical Computer Hardware/Software Systems,cse2312
+CSE,2312,3,0500,Computer Organization And Assembly Language Programming,CSE1320
+CSE,2315,3,0500,Discrete Structures,CSE1310&(MATH1426|math2425)&engr1250
+CSE,2320,3,0500,Algorithms & Data Structures,CSE1320&CSE2315
+CSE,3302,3,1200,Programming Languages,CSE1325&CSE2312&CSE2320
+CSE,3310,3,1200,Fundamentals Of Software Engineering,CSE1325&CSE2315
+CSE,3311,3,1600,Object-Oriented Software Engineering,CSE2320&CSE3310
+CSE,3313,3,1600,Introduction To Signal Procesing,CSE2320&(CSE3380|MATH3330)
+CSE,3315,3,1200,Theoretical Concepts In Computer Science And Engineering,CSE2315
+CSE,3320,3,1200,Operating Systems,CSE2312&(IE3301|math3313)
+CSE,3330,3,1200,Database Systems And File Structures,CSE1325&CSE2320
+CSE,3380,3,1400,Linear Algebra For Cse,CSE2315
+CSE,4303,3,1216,Computer Graphics,CSE2320&(CSE3380|MATH3330)
+CSE,4305,3,1216,Compilers For Algorithmic Language,CSE3302&CSE3315
+CSE,4308,3,1200,Artificial Intelligence,CSE2320&IE3301
+CSE,4309,3,1600,Introduction To Machine Learning,CSE2320&IE3301&(CSE3380|MATH3330)
+CSE,4310,3,1600,Introduction To Computer Vision,CSE2320&IE3301&(CSE3380|MATH3330)
+CSE,4314,3,1200,Professional Practices,COMS2302
+CSE,4316,3,1200,Computer System Design Project I,CSE3310&CSE3320&cse4314
+CSE,4317,3,1200,Computer System Design Project II,CSE4316
+CSE,4319,3,1600,Modeling And Simulation,CSE3310&IE3301
+CSE,4321,3,1600,Software Testing And Maintenance,CSE3310
+CSE,4322,3,1600,Software Project Management,CSE3310
+CSE,4323,3,1600,Quantitative Computer Architecture,CSE3320
+CSE,4331,3,1600,Database Implementation And Theory,CSE3330
+CSE,4334,3,1600,Data Mining,cse3330&(IE3301|MATH3313)
+CSE,4340,3,1600,Mobile Systems Engineering,CSE3320&cse4344
+CSE,4344,3,1200,Computer Network Organization,CSE3320
+CSE,4345,3,1416,Computational Methods,IE3301&CSE2320&(CSE3380|MATH3330)
+CSE,4351,3,1600,Parallel Processing,CSE3320
+CSE,4360,3,1216,Autonomous Robot Design And Programing,CSE2320&CSE3320&(CSE3380|MATH3330)
+CSE,4361,3,1600,Software Design Patterns,CSE3311
+CSE,4378,3,1600,Introduction To Unmanned Vehicle Systems,
+CSE,4380,3,1600,Information Security,CSE3320
+ECON,2305,3,1100,Principles Of Macroeconomics,
+ENGL,1301,3,0200,Rhetoric And Composition I,
+ENGL,2303,3,0600,Topics In Literature,ENGL1301
+ENGL,2309,3,0600,World Literature,ENGL1301
+ENGL,2319,3,0600,British Literature,ENGL1301
+ENGL,2329,3,0600,American Literature,ENGL1301
+ENGR,1101,1,0500,Entrance To Engineering For Transfer Students,
+ENGR,1250,2,0500,Problem Solving In Engineering,(math1426|math2425|math2326)
+FREN,2314,3,0600,Intermediate French II,
+GERM,2314,3,0600,Intermediate German II,
+GLOBAL,2301,3,0600,Introduction To Global Issues,
+GREK,2314,3,0600,Greek Level Iv,
+HIST,1311,3,0900,The United States 1607-1865,engl1301
+HIST,1312,3,0900,History Of The United States Since 1865,engl1301
+IE,2308,3,1100,Economics For Engineers,math1426
+IE,3301,3,1300,Engineering Probability,MATH2425
+IE,3315,3,1600,Operations Research I,math2326
+INTS,1310,3,0600, Introduction To Popular Culture,
+KORE,2314,3,0600,Intermediate Korean II,
+LATN,2314,3,0600,Latin,
+LING,2371,3,0600,Language In A Multicultural Usa,
+MATH,1426,4,0300,Calculus I,
+MATH,2326,3,1400,Calculus III,MATH2425
+MATH,2425,4,0300,Calculus II,MATH1426
+MATH,3303,3,1400,Mathematical Game Theory,MATH3330
+MATH,3304,3,1400,Linear Optimization Applications,MATH3330
+MATH,3313,3,1300,Introduction To Probability,MATH2326
+MATH,3330,3,1400,Introduction To Matrices And Linear Algebra,MATH1426
+MUSI,1300,3,0800,Music Appreciation,
+MUSI,1302,3,0800,Jazz Appreciation,
+MUSI,2300,3,0800,Introduction To World Music,
+MUSI,2301,3,0800,Appreciation Of Music In Film,
+PHIL,1304,3,0600,Contemporary Moral Problems - (Phil 1304.003),
+PHIL,2300,3,0600,Introduction To Philosophy,
+PHYS,1443,4,0400,General Technical Physics I,MATH1426
+PHYS,1444,4,0400,General Technical Physics II,PHYS1443&math2425
+POLS,2311,3,1000,Government Of The United States,
+POLS,2312,3,1000,State And Local Government,
+PORT,2314,3,0600,Intermediate Portuguese II,
+RUSS,2314,3,0600,Intermediate Russian II,
+SPAN,2314,3,0600,Intermediate Spanish II,
+THEA,1342,3,0800,Theatre And Film Appreciation,
+THEA,1343,3,0800,Introduction To Theatre,
+UNIV,1131,1,0500,Student Success,
